@@ -1,13 +1,10 @@
 # About me
-Hi! I'm Ibai, a programmer from Spain. I learned Python in a course at the age of 13. I use Python but I want to learn other languages such as C++ to make videogames in UE4 and more JS.
+Hi! I'm Ibai. I was born in 2006. I currently know Python, C++ and React.js (website creation).
 
-If you want to contact me or ask me any questions, you can send me a DM through [Discord](https://discord.com/users/349495905151483915) (zellius#1000). I most likely won't accept any friend request so just join some server I'm in (for example [TPH](https://discord.gg/programming)).
+If you want to contact me or ask me any questions, you can send a GMAIL to `auax.dev@gmail.com` or DM me through [Discord](https://discord.com/users/349495905151483915) (zellius#1000).
 
 ## My hobbies and school
-I enjoy programming, making video games, and 3D. I go to high school and want to study Computer Engineering.
-
-## My projects
-My actual projects are [`Python trojan`](https://github.com/auax/trojan) - a simple EDUCATIONAL ONLY trojan for Windows, Linux, and macOS (still in development) and more interesting projects related to ML and DEEP LEARNING. 
+I like playing videogames, creating stuff in 3D or programming, and listening to music.
 
 ![Auax's github stats](https://github-readme-stats.vercel.app/api?username=auax&show_icons=true&theme=radical)
 
@@ -19,7 +16,6 @@ My actual projects are [`Python trojan`](https://github.com/auax/trojan) - a sim
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/auax)
 
 [![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/349495905151483915)
-[![Twitter](https://img.shields.io/badge/twitter-%2355ACEE.svg?&logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/auaxGH)
 [![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&logo=reddit&style=for-the-badge&logoColor=white)](https://www.reddit.com/user/Astokx)
 
 ## Languages
