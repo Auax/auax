@@ -6,9 +6,9 @@ If you want to contact me or ask me any questions, you can send a GMAIL to `auax
 ## My hobbies and school
 I like playing videogames, creating stuff in 3D or programming, and listening to music.
 
-![Auax's github stats](https://github-readme-stats.vercel.app/api?username=auax&show_icons=true&theme=radical)
+![Auax's github stats](https://github-readme-stats.vercel.app/api?username=auax&show_icons=true&theme=synthwave)
 
-![Auax's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auax&layout=compact&theme=radical)
+![Auax's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=auax&layout=compact&theme=synthwave)
 
 # My info
 
