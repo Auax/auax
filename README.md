@@ -15,9 +15,6 @@ I like playing videogames, creating stuff in 3D or programming, and listening to
 ## Social Media
 [![Github](https://img.shields.io/badge/github-%23333333.svg?&logo=github&style=for-the-badge&logoColor=white)](https://github.com/auax)
 
-[![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&logo=discord&style=for-the-badge&logoColor=white)](https://discord.com/users/349495905151483915)
-[![Reddit](https://img.shields.io/badge/reddit-%23FF4500.svg?&logo=reddit&style=for-the-badge&logoColor=white)](https://www.reddit.com/user/Astokx)
-
 ## Languages
 [![Python](https://img.shields.io/badge/python-3.9-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
 
