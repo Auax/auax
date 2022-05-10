@@ -1,10 +1,7 @@
 # About me
-Hi! I'm Auax. I was born in 2006. I currently know Python, C++ and React.js (website creation).
+Hi! I'm Ibai. I was born in 2006. I currently know Python, C++ and React.
 
 If you want to contact me or ask me any questions, you can send a GMAIL to `auax.dev@gmail.com` 
-
-## My hobbies and school
-I like playing videogames, creating stuff in 3D or programming, and listening to music.
 
 ![Auax's github stats](https://github-readme-stats.vercel.app/api?username=auax&show_icons=true&theme=synthwave)
 
